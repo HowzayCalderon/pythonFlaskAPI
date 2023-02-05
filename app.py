@@ -39,7 +39,13 @@ data = [
     {"name": 'Hunter x Hunter', "main_character": 'Gon Freecss', "anime_type": 'Shonen'},
     {"name": 'Bleach', "main_character": 'Ichigo Kurosaki', "anime_type": 'Shonen'},
     {"name": 'Fire Force', "main_character": 'Maki Oze', "anime_type": 'Shonen'},
-    {"name": 'YuYu Hakusho', "main_character": 'Yusuke Urameshi', "anime_type": 'Shonen'}
+    {"name": 'YuYu Hakusho', "main_character": 'Yusuke Urameshi', "anime_type": 'Shonen'},
+    {"name": 'Death Note', "main_character": 'Light Yagami', "anime_type": 'Shonen'},
+    {"name": 'Chainsaw Man', "main_character": 'Denji', "anime_type": 'Shonen'},
+    {"name": 'InuYasha', "main_character": 'Kagome', "anime_type": 'Shonen'},
+    {"name": 'Trigun', "main_character": 'Vash the Stampede', "anime_type": 'Shonen'},
+    {"name": 'Mobile Fighter G Gundam', "main_character": 'Domon Kasshu', "anime_type": 'Shonen'}
+
 
 ]
 
